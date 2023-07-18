@@ -1,2 +1,7 @@
-# Dinosaur Game
- Dinosaur Game é um jogo de corredor sem fim, originalmente construído no Google Chrome.
+# ___*Dinosaur Game*__
+
+
+Dinosaur Game é um jogo de corredor sem fim, originalmente construído no Google Chrome.
+T-Rex Game, também denominado Chrome Dino é um jogo integrado ao navegador Google Chrome. O jogo foi criado por Edward Jung, Sebastien Gabriel e Alan Bettes em 2014 como um ovo de páscoa que aparece quando estiver offline e fizer uma pesquisa no Google Chrome. Nesse momento, aparece uma imagem de um tiranossauro e, pressionando a barra de espaço, inicia-se o jogo. O T-Rex Game é jogado 270 milhões de vezes mensalmente (2018).
+
+Durante o jogo, o T-Rex se move continuamente da esquerda para a direita em uma paisagem deserta em preto e branco, e o jogador tenta evitar os obstáculos que se aproximam, como cactos e pteranodontes, pulando ou agachando-se. À medida que o jogo avança, a velocidade do jogo aumenta gradualmente até que o usuário bata em um obstáculo ou pterossauro, resultando em um fim de jogo instantâneo. Novos obstáculos aparecem quando você atinge 450 pontos: pterodáctilos e, desde maio de 2016, o modo noturno começa quando você atinge 700 pontos. O esquema de cores muda conforme o jogo avança.O jogo foi projetado para obter pontuações completas após aproximadamente 17 milhões de anos de jogo, dependendo de quanto tempo os tiranossauros existiram antes de morrer durante o evento de extinção Cretáceo-Paleogeno. 
