@@ -66,6 +66,10 @@ class Chao(pygame.sprite.Sprite):
         self.rect.y = ALTURA - 64
         self.rect.x = pos_x * 64
 
+    def update(self):
+         if self.rect.topright[0] < 0:
+            self.rect.x = LARGURA   
+         self.rect.x -= 10
 
 todas_as_sprites = pygame.sprite.Group()
 dino = Dino()
@@ -92,3 +96,4 @@ while True:
     todas_as_sprites.update()
 
     pygame.display.flip()
+    
