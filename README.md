@@ -14,9 +14,10 @@ Durante o jogo, o T-Rex se move continuamente da esquerda para a direita em uma 
 ***
 ## Agradecimentos :clap:
 
-* Primeiramente a Deus. 
+* Primeiramente a Deus.
+* Se você achar que esse projeto agregou algo para você, por favor deixe uma estrela.
 * Meus sinceros agradecimentos a todos que visitam o projeto e deixa uma estrela como reconhecimento.
-* Foi muito gratificante ir acompanhando as aulas do curso de Pygame, para desenvolver esse Jogo.
+* Foi muito gratificante ir acompanhando as aulas do curso de Pygame, para desenvolver esse Jogo, aprendi muito criando cada etapa e me fez ter vontade de fazer mais. 
 * Agradeço muito ao Joao Tinti por passar o seu conhecimento e explicar muito bem.
 * Ao canal do [João Tinti](https://www.youtube.com/watch?v=OxenBMy13AM&list=PLJ8PYFcmwFOxtJS4EZTGEPxMEo4YdbxdQ&index=15)  de onde tirei toda a inspiração para dar esse passo inicial nesse projeto.
 
